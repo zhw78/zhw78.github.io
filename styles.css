@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+li {
+    display: inline;
+}
+
+html {
+    font-family: 'Kaisei Tokumin', serif;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(230,115,1,0.68) 21.4%, rgba(255,78,78,1) 80.3% );
+}
+
+h1, h3 {
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px black;
+}
